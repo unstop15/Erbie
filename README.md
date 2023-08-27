@@ -5,7 +5,7 @@ https://www.erbie.io/docs/install/run/index.html
 
 # Automatic:
 ```
-wget -O erbie.sh https://raw.githubusercontent.com/johnt9x/erbie/main/erbie.sh && chmod +x erbie.sh && ./erbie.sh
+wget -O erbie.sh https://raw.githubusercontent.com/unstop15/erbie/main/erbie.sh && chmod +x erbie.sh && ./erbie.sh
 ```
 # Monitoring:
 ```
