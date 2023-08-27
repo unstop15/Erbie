@@ -9,7 +9,7 @@ wget -O erbie.sh https://raw.githubusercontent.com/johnt9x/erbie/main/erbie.sh &
 ```
 # Monitoring:
 ```
-wget -O monitor.sh https://raw.githubusercontent.com/johnt9x/erbie/main/monitor.sh && chmod +x monitor.sh && ./monitor.sh
+wget -O monitor.sh https://raw.githubusercontent.com/unstop15/erbie/main/monitor.sh && chmod +x monitor.sh && ./monitor.sh
 ```
 # Manual: 
 # Update system and install build tools
