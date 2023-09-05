@@ -54,7 +54,7 @@ WorkingDirectory=$HOME
 ExecStart= /usr/local/bin/erbie \
   --datadir $HOME/.erbie \
   --devnet \
-  --identity unstop15 \
+  --identity johnt9x \
   --mine \
   --miner.threads 1 \
   --rpc \
