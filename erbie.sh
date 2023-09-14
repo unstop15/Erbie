@@ -22,7 +22,7 @@ go version
 cd $HOME
 git clone https://github.com/erbieio/erbie
 cd erbie
-git checkout v0.14.5
+git checkout v0.15.0
 sleep 5
 
 #build binary
